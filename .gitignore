@@ -1,0 +1,6 @@
+.parcel-cache
+.vscode
+.yarn
+.pnp.js
+.yarnrc.yml
+yarn.lock
